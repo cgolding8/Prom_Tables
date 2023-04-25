@@ -1,3 +1,36 @@
+"Ethan Groning - AIT
+Rebecca Fogle - AIT
+Ginger Juzefyk - MHS
+Will Rosenthal - AIT
+Sophie DePaul - AIT
+Mia O'Halloran - AIT
+Elizabeth Friedman - AAHS
+Lucas Zarember - Guest of Elizabeth
+Claire Kim - UCTECH
+Madelyn Dangle - UCTECH
+Sydney Vorndran - Guest of Madelyn
+Kayla Comiskey - Guest of Rebecca"
+"Ashley Molina - AIT
+Finnegan Sezer - Guest of Ashley Molina
+Rebecca Lee - AIT
+Kevin Huang - AIT
+Janet Paida - AIT
+Erick Jacomes - AIT"
+"Ryan Gasson - AIT
+Dylan Sturr - AIT
+Thomas Sabates - AIT"
+"Mia Avni - AIT
+Angela Chen - AIT
+Maya Dias - AIT
+Hannah Tao - AIT
+Saniya Licorish - AIT
+Moses Yang - Guest of Hannah Tao
+Riya Tadi - Allied Health
+Sweksha Mehta - UCTech
+Lena Sharma - UCTech
+Sneha Seshadri - UCTech
+Alina Murad - AIT
+Urmi Joglekar - AIT"
 "Amparo Sofia Sanchez - Magnet
 Isabella Albarron - Magnet
 Christopher Tschopp - Guest of Isabella A
@@ -13,8 +46,7 @@ Omano akenami : UCTECH
 kyla howells:  UCTECH 
 Xavier Siddons : GUEST OF MADISON
 makayla Wilson : APA 
-Dart Siddons: GUEST OF MAKAYLA 
-"
+Dart Siddons: GUEST OF MAKAYLA"
 "Sofia Figueroa - Magnet
 Stephanie Mora - Allied
 Gabriella Wysocki - Guest of Stephanie Mora
@@ -85,5 +117,13 @@ Ma'Kayla Wilson - APA
 Dart Siddons - Guest of Ma'Kayla
 Madison Boyd - APA
 Xavier Siddons - Guest of Madison
- Christelle Philemon - APA
+Christelle Philemon - APA
 Christian McPherson - Guest of Christelle"
+"Madeline Rehwinkel - Magnet
+Aryaa Modi - Magnet
+Julie Burke - Guest of Aryaa
+Nashali Taipe - Magnet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+Amanda Thomas - Magnet
+Kaiya Thompson - Magnet
+Allison Lesser - Magnet
+Reasha Nair - Magnet"

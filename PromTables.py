@@ -1,23 +1,25 @@
 import copy
 print("\033c")
 
+### https://docs.google.com/spreadsheets/d/14QvgWvUbX0FI90EFg95FI9NPYc4f37FqrGQY8CWjGuA/edit?usp=sharing # UCTech, Magnet, APA, Allied ###
+### https://docs.google.com/spreadsheets/d/19bIABPB_IcS2PR_Cjz2ly7mXjmEe3Mlayabs9fIgpaI/edit?usp=sharing # AIT ###
+
 all = []
 groups = []
 group = []
 
 # Read input and break into groups
-fI = open('input.txt')
-for line in fI.readlines():
-	line = line.strip("\n").replace(":","-").strip()
-	all.append(line.strip("\"").split("-")[0].strip())
+with open('input.txt') as fI:
+	for line in fI.readlines():
+		line = line.strip("\n").replace(":","-").strip().title()
+		all.append(line.strip("\"").split("-")[0].strip())
 
-	if line.endswith("\""):
-		group.append(line.strip("\"").split("-")[0].strip())
-		groups.append(group)
-		group = []
-	else:
-		group.append(line.strip("\"").split("-")[0].strip())
-fI.close()
+		if line.endswith("\""):
+			group.append(line.strip("\"").split("-")[0].strip())
+			groups.append(group)
+			group = []
+		else:
+			group.append(line.strip("\"").split("-")[0].strip())
 
 # Label by size
 for group in groups:
@@ -33,12 +35,10 @@ print("Initial Groups:")
 for group in groups:
 	print(group,"\n")
 
-print("\n")
-
 # Create tables
 try:
 	count = 1
-	removed = 0
+	removed = 0	
 	fO = open('tables.txt','w')
 
 	for i in range(len(groups)):
@@ -54,7 +54,6 @@ try:
 			count += 1
 		# Combines Two Tables
 		elif groups[i-removed][0] > 5:
-			##
 			revGroups = sorted(groups, key=lambda x: x[0])
 			revGroups2 = sorted(groups, key=lambda x: x[0])
 			for j in range(len(revGroups)):
@@ -67,7 +66,7 @@ try:
 						c += 1
 					groups.pop(i-removed)
 					for p in revGroups[j][1:]:
-						fO.write(f"{c}) {p}\n")
+						fO.write(f"{c}*) {p}\n")
 						c += 1
 					groups.pop(groups.index(revGroups[j]))
 					removed += 1
@@ -88,7 +87,7 @@ try:
 								c += 1
 							groups.pop(i-removed)
 							for p in groups1[j][1:]:
-								fO.write(f"{c}) {p}\n")
+								fO.write(f"{c}*) {p}\n")
 								c += 1
 							for p in groups2[k][1:]:
 								fO.write(f"{c}) {p}\n")
@@ -96,15 +95,13 @@ try:
 							groups.pop(groups.index(groups1[j]))
 							groups.pop(groups.index(groups2[k]))
 							removed += 2
-							count += 1
-			
+							count += 1	
 except:
 	fO.close()
 
 # Remaining groups that were not assigned a table
-fL = open('leftover.txt','w')
-for i in range(len(groups)):
-	fL.write(f"\nGroup {i+1} (Size = {groups[i][0]})")
-	str = ", ".join(groups[i][1:])
-	fL.write(f"\n[{str}]\n")
-fL.close()
+with open('leftover.txt','w') as fL:
+	for i in range(len(groups)):
+		fL.write(f"\nGroup {i+1} (Size = {groups[i][0]})")
+		str = ", ".join(groups[i][1:])
+		fL.write(f"\n[{str}]\n")
