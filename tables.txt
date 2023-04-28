@@ -1,35 +1,7 @@
 
 Table 1:
-1) Ethan Groning
-2) Rebecca Fogle
-3) Ginger Juzefyk
-4) Will Rosenthal
-5) Sophie Depaul
-6) Mia O'Halloran
-7) Elizabeth Friedman
-8) Lucas Zarember
-9) Claire Kim
-10) Madelyn Dangle
-11) Sydney Vorndran
-12) Kayla Comiskey
-
-Table 2:
-1) Mia Avni
-2) Angela Chen
-3) Maya Dias
-4) Hannah Tao
-5) Saniya Licorish
-6) Moses Yang
-7) Riya Tadi
-8) Sweksha Mehta
-9) Lena Sharma
-10) Sneha Seshadri
-11) Alina Murad
-12) Urmi Joglekar
-
-Table 3:
 1) Nicholas Panlilio
-2) Leon Liu
+2) Owen Higinbotham
 3) Helena Chan
 4) Chelsey Tang
 5) Santiago Puerto
@@ -41,21 +13,7 @@ Table 3:
 11) Rafael Palete
 12) Kristy Leiva
 
-Table 4:
-1) Antonio Drakes
-2) Pranay Francis
-3) Adi Borkar
-4) Nicole Ekwughalu
-5) Cole Duhaime
-6) Alexis Cutignola
-7) Jason Wang
-8) Leila Cader
-9) Preeyank Bhagalia
-10) Manyi Cheng
-11) Yvonne Li
-12) Aashni Chawada
-
-Table 5:
+Table 2:
 1) Alyssa Regilus
 2) Samantha Ramos
 3) Natalie Maradiaga
@@ -69,7 +27,7 @@ Table 5:
 11) Bruce Moseti
 12) Alexandria Foye
 
-Table 6:
+Table 3:
 1) Montana Dixon
 2) Fabiana Lopez
 3) Cristina Freire
@@ -83,7 +41,231 @@ Table 6:
 11) Christelle Philemon
 12) Christian Mcpherson
 
+Table 4:
+1) Rafay Niazi
+2) Clara Yu
+3) Huda Memon
+4) Jessica Lee
+5) Ivan Chen
+6) Leticia Rodriguez
+7) Magy Hanna
+8) Claire Flagg
+9) Anastasiia Smykavchuk
+10) Isabel Andrade
+11) Fabiana Ramirez
+12) Leon Liu
+
+Table 5:
+1) Jesse Ryan
+2) Luci Vicendese
+3) Marisa Olavarria
+4) Amy Locke
+5) Joyce Naguib
+6) Mayer Fakeh
+7) Evan Crozier
+8) Bridget Morrison
+9) Caden Xu
+10) Louis Wood
+11) Zack Mani
+12) Alexandra Zotos
+
+Table 6:
+1) Braulio Meneses
+2) Mariano Meneses
+3) Jared Walters
+4) Xzavier F.
+5) Claudio Salinas
+6) Steven Z.
+7) Alisha Persaud
+8) Nicholas N.
+9) Danica Santos
+10) Sebastian Aparicio
+11) David Leal
+12) Miles Neal
+
 Table 7:
+1) Shalini Ramakrishnan
+2) Annamaria George
+3) Ayana Alles
+4) Claudia Reines
+5) Megan Zuzarth
+6) Justin Koizumi
+7) Ashley Hoberman
+8) Kylie Pello
+9) Nathaniel Ainge
+10) Lucia Laumbach
+11) Mikayla Mari
+12) Chelsea Ekwughalu
+
+Table 8:
+1) Ava Stroh
+2) Sarah Senatus
+3) Anuva Yonzon
+4) Nicole Wilk
+5) Derene Darkwah
+6) Jourdyn Stinnett
+7) Quentin Morris
+8) Alexy Eng
+9) Giovanna Marques
+10) Kyla Howell
+11) Omano Akenami
+12) Casey Blount
+
+Table 9:
+1) Michael Levin
+2) Catherine Royzman
+3) Antonio Drakes
+4) Leila Cader
+5) Aashni Chawada
+6) Pranay Francis
+7) Aditya Borkar
+8) Yvonne Li
+9) Alexis Cutignola
+10) Jason Wang
+11) Nicole Ekwughalu
+12) Cole Duhaime
+
+Table 10:
+1) Nicole Lenkiewicz
+2) Natalie Piskadlo
+3) Wesley Nicholls
+4) Kaitlyn O’Neill
+5) Nicole Pasiecznik
+6) Gabriel Burgos
+7) Nyaziah Valle
+8) Taryn Palm/Morrison
+9) Tyler Runfolo
+10) Alex Privado
+11) Anahi Cortes
+12) Emiliano Zamudio
+
+Table 11:
+1) Gabriela Gil
+2) Lucas Reguinho
+3) Ryley Caburis
+4) Jessica Dianda
+5) Mark Hansen
+6) Alicia Valenciano
+7) Edgar Pacheco
+8) Kyra Simmons Thompson
+9) Jenai Berry
+10) Nate Rayan
+11) Mia Cardoso
+12) Daniella Palomino
+
+Table 12:
+1) Annabella La Mantia
+2) Douglas Perestrello
+3) Andrea Falar
+4) Georgiana Tillinghast
+5) Chadley Gede
+6) Georgia Sebok
+7) Timothy Fagan
+8) Max Ho
+9) Eliana Rafal
+10) Jermia Pearson
+11) Katrina Young
+12) Chelsi Gregorio
+
+Table 13:
+1) Neida Reyes
+2) Priscilla Nieves
+3) Maria Mormile
+4) Jermia Pearson
+5) Abigail Castellanos
+6) Zachary Valentin
+7) Maggie O'Connell
+8) Cole Golding
+9) Melina Colonias
+10) Andrea Torres
+11) Alex Diaz
+12) Angela Chen
+
+Table 14:
+1) Mia Avni
+2) Angela Chen
+3) Maya Dias
+4) Hannah Tao
+5) Saniya Licorish
+6) Moses Yang
+7) Riya Tadi
+8) Sweksha Mehta
+9) Lena Sharma
+10) Sneha Seshadri
+11) Alina Murad
+12) Urmi Joglekar
+
+Table 15:
+1) Anthony Cardozo
+2) Sean Ferrari
+3) Lucas Baptista
+4) Oliver Zajac
+5) Anna Dynda
+6) Kelli Keogh
+7) Adriana Rupa
+8) Sofia Rodriguez
+9) Thomas Miller
+10) Liam Godwin
+11) Chris Schwarze
+12) Michael Minchak
+
+Table 16:
+1) Ricardo Roncallo
+2) Alan Ostrovsky
+3) Simon Cvercko
+4) Jason Torres
+5) Axel Santamaria
+6) Theo Karter
+7) Rafael Almeida
+8) Deejuanae Lewis
+9) Jordan White
+10) Sandro Imerlishvili
+11) Julia Billow
+12) Guest Of Theo Karter
+
+Table 17:
+1) Sam Cohen
+2) Ashley Paez
+3) Nate Kim
+4) Jasmine Chen
+5) Andy Zhu
+6) Kendall Chiang
+7) Jason Bak
+8) Bella Wai
+9) Peter Reilly
+10) Morgan Virgil
+11) Will Kim
+12) Mia O'Halloran
+
+Table 18:
+1) Hans Noriega
+2) Aashi Mishra
+3) Angela Colom
+4) Lucas Morais
+5) Alfonso Javier
+6) Junior Cepeda
+7) Salma Mohammed
+8) Emely Duraes
+9) Sebastian Saavedra
+10) Annemarie Dauz
+11) Neil Verma
+12) Virginia Villa
+
+Table 19:
+1) Amparo Sofia Sanchez
+2) Isabella Albarron
+3) Christopher Tschopp
+4) Aspen Sassi
+5) Aubrey Reyes
+6) Daniel Gonzalez
+7) Isabella Valdes
+8) Tessa Dunkerton
+9) Julie Renosa
+10) Sydney King
+11*) Lauren Verrastro
+12*) Emma Scramm
+
+Table 20:
 1) Sofia Figueroa
 2) Stephanie Mora
 3) Gabriella Wysocki
@@ -97,16 +279,86 @@ Table 7:
 11*) Dylan Sturr
 12*) Thomas Sabates
 
-Table 8:
-1) Amparo Sofia Sanchez
-2) Isabella Albarron
-3) Christopher Tschopp
-4) Aspen Sassi
-5) Aubrey Reyes
-6) Daniel Gonzalez
-7) Isabella Valdes
-8) Tessa Dunkerton
-9*) Maggie O'Connell
-10*) Cole Golding
-11*) Melina Colonias
-12*) Andrea Torres
+Table 21:
+1) Madeline Rehwinkel
+2) Aryaa Modi
+3) Julie Burke
+4) Nashali Taipe
+5) Amanda Thomas
+6) Kaiya Thompson
+7) Allison Lesser
+8) Reasha Nair
+9*) Kate Eng
+10*) Sayee Edekar
+11*) Chloe Kim
+12*) Ivy Chen
+
+Table 22:
+1) Lucas Ruiz
+2) Gabriella Villao
+3) Daniel Curry
+4) Jennifer Chethalan
+5) Jose Tabuena
+6) Raegan Knob
+7) Lance Williams
+8) Victor Almeida
+9*) Katarzyna Cieloszczyk
+10*) Lauren Matfes
+11*) Catherine Ramirez
+12*) Jose Mendez
+
+Table 23:
+1) Molly Love
+2) Chris Santarelli
+3) Colin Decroix
+4) Gabriella Virga
+5) Amandio Cardoso
+6) Brandon Madrigal
+7) Jabali Mokaya
+8*) Day Gillett
+9*) Akwele Lokko
+10*) Ivan Aguirre
+11*) Alyssa Cruz
+12*) Conrad Chen
+
+Table 24:
+1) Esther Ihemesie
+2) Guest Of Esther
+3) Jayla Pryor
+4) Zoë Ponzio
+5) Guest Of Zoë
+6) Hannah Bloodgood
+7*) Kira Zimbalist
+8*) Francesca Villani
+9*) Lili Masoudi
+10*) Jacob Piatkowski
+11*) Kota Smolar
+12*) Ella Platts
+
+Table 25:
+1) Isabella Gomez
+2) Kate Anne Monsanto
+3) Jadyn Negron
+4) Christian Allende
+5) Amy Gomez
+6) Romane Jackson
+7*) Evalyse Carter
+8*) Tomas Jedic
+9*) Melany Gonzalez
+10*) Joe Galati
+11*) Paloma Elliott
+12*) Nicolas Ruiz
+
+Table 26:
+1) Isabella Gomez
+2) Kate Anne Monsanto
+3) Jadyn Negron
+4) Christian Allende
+5) Amy Gomez
+6) Romane Jackson
+7*) Ashley Molina
+8*) Finnegan Sezer
+9*) Rebecca Lee
+10*) Kevin Huang
+11*) Janet Paida
+12*) Erick Jacomes

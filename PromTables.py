@@ -105,3 +105,9 @@ with open('leftover.txt','w') as fL:
 		fL.write(f"\nGroup {i+1} (Size = {groups[i][0]})")
 		str = ", ".join(groups[i][1:])
 		fL.write(f"\n[{str}]\n")
+
+all.sort()
+print(all)
+with open('all.txt','w') as fA:
+	for person in all:
+		fA.write(f"{person}\n")

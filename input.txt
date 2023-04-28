@@ -1,15 +1,326 @@
-"Ethan Groning - AIT
-Rebecca Fogle - AIT
-Ginger Juzefyk - MHS
-Will Rosenthal - AIT
-Sophie DePaul - AIT
-Mia O'Halloran - AIT
-Elizabeth Friedman - AAHS
-Lucas Zarember - Guest of Elizabeth
-Claire Kim - UCTECH
-Madelyn Dangle - UCTECH
-Sydney Vorndran - Guest of Madelyn
-Kayla Comiskey - Guest of Rebecca"
+"Amparo Sofia Sanchez - Magnet
+Isabella Albarron - Magnet
+Christopher Tschopp - Guest of Isabella A
+Aspen Sassi - Magnet
+Aubrey Reyes - APA
+Daniel Gonzalez - Guest of Aubrey R
+Isabella Valdes - Allied Health
+Tessa Dunkerton - Allied Health
+Julie Renosa - Allied Health
+Sydney King - Guest of Julie R"
+"Sofia Figueroa - Magnet
+Stephanie Mora - Allied
+Gabriella Wysocki - Guest of Stephanie Mora
+Annie Saguil - AIT
+Sarah Fradella - Guest of Annie Saguil
+Maja Dinic - Allied
+Joey Grimaldi - Guest of Maja Dinic
+Ava Giuliano - UCTECH
+Daniella Montanez - Guest of Ava Giuliano"
+"Nicholas Panlilio - Magnet
+Owen Higinbotham - Guest of Helena
+Helena Chan - Magnet
+Chelsey Tang - Magnet
+Santiago Puerto - Magnet
+Chibueze Ike - Magnet
+Mark Rodriguez - Magnet
+Maria Navarette - Guest of Mark Rodriguez
+Jazmin Delos Santos - UCTECH
+Micah Malonza - UCTECH
+Rafael Palete - AIT
+Kristy Leiva - Guest of Rafael Palete"
+"Alyssa Regilus-UCTECH
+Samantha Ramos - guest of alyssa
+Natalie Maradiaga- UCTECH
+Karl Similien- guest of natalie 
+Nia Williams - UCTECH
+Marley Stewart - guest of nia
+Candace Heron-UCTECH
+Destiny Rodriguez- UCTECH
+Esther Babatunde- Magnet 
+Elijah Spotwood- UCTECH
+Bruce Moseti- UCTECH
+Alexandria Foye- UCTECH"
+"Montana Dixon - APA
+Fabiana Lopez - APA
+Cristina Freire - APA
+Seraphina Taylor - APA
+Ayleen Harper - APA
+Jada Sampson - APA
+Ma'Kayla Wilson - APA
+Dart Siddons - Guest of Ma'Kayla
+Madison Boyd - APA
+Xavier Siddons - Guest of Madison
+ Christelle Philemon - APA
+Christian McPherson - Guest of Christelle"
+"Madeline Rehwinkel - Magnet
+Aryaa Modi - Magnet
+Julie Burke - Guest of Aryaa
+Nashali Taipe - Magnet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+Amanda Thomas - Magnet
+Kaiya Thompson - Magnet
+Allison Lesser - Magnet
+Reasha Nair - Magnet"
+"Rafay Niazi - Allied Health
+Clara Yu - Allied Health
+Huda Memon - Allied Health
+Jessica Lee - Allied Health
+Ivan Chen - Allied Health
+Leticia Rodriguez - Allied Health
+Magy Hanna - Allied Health
+Claire Flagg - Allied Health
+Anastasiia Smykavchuk - Allied Health
+Isabel Andrade - Allied Health
+Fabiana Ramirez - Guest of Isabel Andrade
+Leon Liu - Magnet"
+"Esther Ihemesie - APA
+Guest of Esther
+Jayla Pryor - APA
+Zoë Ponzio- APA
+Guest of Zoë 
+Hannah Bloodgood- APA"
+"Jesse Ryan - Allied Health
+Luci Vicendese - Guest of Jesse Ryan
+Marisa Olavarria - Allied Health
+Amy Locke - Guest of Marisa Olavarria
+Joyce Naguib - Allied Health
+Mayer Fakeh - Allied Health
+Evan Crozier - Allied Health
+Bridget Morrison - Guest of Evan Crozier
+Caden Xu - Allied Health
+Louis Wood - Allied Health
+Zack Mani - Allied Health
+Alexandra Zotos - UCTECH"
+"Kate Eng - MHS
+Sayee Edekar - MHS
+Chloe Kim - Guest of Sayee Edekar
+Ivy Chen - MHS"
+"Braulio Meneses - Allied Health
+Mariano Meneses - Guest of Braulio Meneses
+Jared Walters - AIT
+Xzavier F. - Guest of Jared Walters
+Claudio Salinas - UCTECH
+Steven Z. - Guest of Claudio Salinas
+Alisha Persaud - UCTECH
+Nicholas N. - Guest of Alisha Persaud 
+Danica Santos - Allied
+Sebastian Aparicio - Guest of Danica Santos
+David Leal - UCTECH
+Miles Neal - AIT"
+"Shalini Ramakrishnan- UCTECH
+Annamaria George- AAHS
+Ayana Alles- Guest of Annamaria George
+Claudia Reines- MHS 
+Megan Zuzarth- Guest of Shalini Ramakrishnan
+Justin Koizumi- UCTECH
+Ashley Hoberman- Guest of Justin Koizumi
+Kylie Pello- UCTECH
+Nathaniel Ainge- UCTECH
+Lucia Laumbach- AAHS
+Mikayla Mari- Guest of Lucia Laumbach
+Chelsea Ekwughalu- AAHS"
+"Kira Zimbalist - APA
+Francesca Villani - APA
+Lili Masoudi - UCtech
+Jacob Piatkowski - APA
+Kota Smolar - guest of Jacob Piatkowski
+Ella Platts - UCtech"
+"Ava Stroh - AAHS
+Sarah Senatus - AAHS
+Anuva Yonzon - AAHS
+Nicole Wilk - AAHS
+Derene Darkwah - AAHS
+Jourdyn Stinnett - AAHS
+Quentin Morris - Guest of Jourdyn
+Alexy Eng - AAHS
+Giovanna Marques - UCTECH
+Kyla Howell - UCTECH
+Omano Akenami - UCTECH
+Casey Blount - UCTECH"
+"Michael Levin- MHS
+Catherine Royzman- Guest of Michael Levin
+Antonio Drakes- MHS
+Leila Cader- MHS
+Aashni Chawada- MHS
+Pranay Francis- MHS
+Aditya Borkar- MHS
+Yvonne Li- MHS
+Alexis Cutignola- MHS
+Jason Wang- UCTECH
+Nicole Ekwughalu- MHS
+Cole DuHaime- AIT"
+"Nicole Lenkiewicz - Guest of Natalie Piskadlo
+Natalie Piskadlo - Allied Health
+Wesley Nicholls - AIT
+Kaitlyn O’Neill - Allied Health
+Nicole Pasiecznik - Allied Health
+Gabriel Burgos - Guest of Nicole Pasiecznik
+Nyaziah Valle - Allied Health
+Taryn Palm/Morrison - Allied Health
+Tyler Runfolo - Guest of Taryn Palm-Morrison
+Alex Privado - Allied Health
+Anahi Cortes - Guest of Alex Privado
+Emiliano Zamudio - Allied Health"
+"Nathaly Ramirez - UCTECH
+Vivian Lin - UCTECH
+Jilani Skinner - UCTECH
+Alondra Martinez - UCTECH
+Andrea Larkins - UCTECH
+Elvin Ramirez - UCTECH
+Janbert Marania - UCTECH
+Zinnyah Nutornti - UCTECH
+John Inoa - Magnet"
+"Luke Texidor- Magnet 
+Katelyn Walsh- APA
+Emily Rego-APA
+Aidan Zucosky- APA 
+Matthew Lordi- Allied Health 
+Lauren Kolfenbach- Guest of Matthew Lordi 
+Robert Rooney- AIT 
+Bridget Hernandez- APA 
+Evan Sinocchi-Guest of Bridget Hernandez 
+Nohlani Munoz- APA 
+Anthony Younan- Magnet "
+"Sophia Andersen- UCTech
+Casey Concannon- UCTech
+Micheal Stockstill- Guest of Casey
+Tiger Ehieze- UCTech
+Natalie Andrade- UCTech
+Youhao Wang- Magnet
+Richard Kluse- UCTech
+Kaylie Nudelman- Guest of Fedrick
+Federick Pena/Garcia- Magnet"
+"Riyana Phadke - Allied Health
+Juliana Schickel - Allied Health
+Pavni Bhardwaj - Allied Health
+Day Gillet - Allied Health
+Guest of Day Gillet 
+Alexis Kern - Allied Health
+Sharanya Jairam - Allied Health
+Akwele Lokko - Allied Health
+Saniya Harlalka - Allied Health"
+"Gabriela Gil - UCTech
+Lucas Reguinho - UCTech
+Ryley Caburis - UCTech
+Jessica Dianda - UCTech
+Mark Hansen - Guest (Magnet) of Alicia Valenciano 
+Alicia Valenciano - UCTech
+Edgar Pacheco - UCTech
+Kyra Simmons Thompson - UCTech
+Jenai Berry - UCTech
+Nate Rayan - Guest of Jenai Berry
+Mia Cardoso - UCTech
+Daniella Palomino - UCTech "
+"Annabella La Mantia - UCTech
+Douglas Perestrello - Guest of Annabella L. 
+Andrea Falar - UCTech 
+Georgiana Tillinghast - Guest of Andrea F. 
+Chadley Gede - UCTech
+Georgia Sebok - UCTech
+Timothy Fagan - Guest of Georgia S. 
+Max Ho - UCTech
+Eliana Rafal - Guest of Max H. 
+Jermia Pearson - UCTech
+Katrina Young - UCTech
+Chelsi Gregorio - UCTech"
+"Ann/Marie Wimbush - Allied 
+Malachi Mercer - Guest 
+Caia Moonsammy - AIT 
+Allyan Roache - AIT 
+Nyjae Shipley - TECH
+Guest of Nyjae 
+Curtisa Jones - TECH 
+Everett Bound - Allied 
+guest of Everett - Guest"
+"Day Gillett - Allied Health
+Akwele Lokko - Allied Health
+Ivan Aguirre - Guest of Day Gillett
+Alyssa Cruz - Allied Health
+Conrad Chen - Allied Health"
+"Molly Love - Uctech
+Chris Santarelli - Guest of Molly Love
+Colin DeCroix - Uctech
+Gabriella Virga - Uctech
+Amandio Cardoso - Uctech 
+Brandon Madrigal - Guest of Amandio Cardoso 
+Jabali Mokaya - Uctech"
+"Lauren Verrastro - APA
+Emma Scramm - Lauren's Guest"
+"Allie Colon - UCTech
+Mia Pickton- UCTech
+Aleksa Wehrle - Guest of Mia Pickton
+Sarah Wenskoski - UCTech
+Cesar Minos - Guest of Sarah Wenskoski
+Nikki Shrestha - UCTech
+Jack Stickler - Guest of Nikki Shrestha
+Rosa Cascarano - UCTech
+Ella Salmon - UCTech "
+"Aadi Pandey - Magnet
+Margaret Whitney - AIT
+Michael Olszewski - UCTECH
+Timothy Zaslavsky - UCTECH
+Preeyank Bhagalia - Magnet
+Melody Cheng - Guest(Preeyank)
+Michael Percario - Guest(Claire Kim)"
+"Noreen Healy- APA
+Sophie Gannon-APA
+Giulia Brady-APA
+Sam Wolf-APA
+Eliza Crawford-APA
+Arden Moscowitz-APA
+Janelle Estime-APA
+Darius Evans-APA
+Matt Griffin-APA
+Nicky- Guest of Matt"
+"Isabella Gomez- Allied Health 
+Kate Anne Monsanto- Allied Health 
+Jadyn Negron- Allied Health 
+Christian Allende- Guest of Jadyn 
+Amy Gomez- Allied Health 
+Romane Jackson- Guest of Amy"
+"Neida Reyes - UCTECH
+Priscilla Nieves - UCTECH
+Maria Mormile - Guest of Priscilla
+Jermia Pearson - UCTECH
+Abigail Castellanos - UCTECH
+Zachary Valentin - Guest of Abigail
+Maggie O'Connell - UCTECH
+Cole Golding - AIT
+Melina Colonias - Guest of Maggie O'Connell 
+Andrea Torres - Guest of Cole Golding
+Alex Diaz - AIT
+Angela Chen - AIT"
+"Samantha Santiago-APA
+Kevin Sun-APA
+Ka Deen Scarlett-APA
+Neve Ferreira-APA
+Jenna Moriello-APA
+Amanda’s Magee- Guest of Jenna Moriello
+Emily Garcia-APA"
+"Evalyse Carter- UcTech
+Tomas Jedic- Guest of Evalyse
+Melany Gonzalez-UcTech
+Joe Galati- Guest of Melany
+Paloma Elliott- UcTech
+Nicolas Ruiz- AIT"
+"Jordan Cheung - Magnet
+Madeleine Khristov/Weinrach - Magnet
+Nina Ignacio - Magnet 
+Ivan Sanchez - Magnet 
+Kieran Kavanagh - Magnet
+Tristan Florencio - Magnet
+Marcy Pillacela - Magnet
+Julia Chen - Allied
+Lucia Lacourtna - AIT 
+Julie Morris - UCTech
+Ryan Donnelly - APA"
+"isabella Gomez- Allied Health 
+Kate Anne Monsanto- Allied Health 
+Jadyn Negron- Allied Health 
+Christian Allende- Guest of Jadyn 
+Amy Gomez- Allied Health 
+Romane Jackson- Guest of Amy
+"
 "Ashley Molina - AIT
 Finnegan Sezer - Guest of Ashley Molina
 Rebecca Lee - AIT
@@ -31,99 +342,88 @@ Lena Sharma - UCTech
 Sneha Seshadri - UCTech
 Alina Murad - AIT
 Urmi Joglekar - AIT"
-"Amparo Sofia Sanchez - Magnet
-Isabella Albarron - Magnet
-Christopher Tschopp - Guest of Isabella A
-Aspen Sassi - Magnet
-Aubrey Reyes - APA
-Daniel Gonzalez - Guest of Aubrey R
-Isabella Valdes - Allied Health
-Tessa Dunkerton - Allied Health"
-"Zoe ponzio : APA 
-madison boyd : APA 
-Woodnel Alphanor : GUEST OF ESTHER 
-Omano akenami : UCTECH
-kyla howells:  UCTECH 
-Xavier Siddons : GUEST OF MADISON
-makayla Wilson : APA 
-Dart Siddons: GUEST OF MAKAYLA"
-"Sofia Figueroa - Magnet
-Stephanie Mora - Allied
-Gabriella Wysocki - Guest of Stephanie Mora
-Annie Saguil - AIT
-Sarah Fradella - Guest of Annie Saguil
-Maja Dinic - Allied
-Joey Grimaldi - Guest of Maja Dinic
-Ava Giuliano - UCTECH
-Daniella Montanez - Guest of Ava Giuliano"
-"Nicholas Panlilio - Magnet
-Leon Liu - Magnet
-Helena Chan - Magnet
-Chelsey Tang - Magnet
-Santiago Puerto - Magnet
-Chibueze Ike - Magnet
-Mark Rodriguez - Magnet
-Maria Navarette - Guest of Mark Rodriguez
-Jazmin Delos Santos - UCTECH
-Micah Malonza - UCTECH
-Rafael Palete - AIT
-Kristy Leiva - Guest of Rafael Palete"
-"Antonio Drakes - Magnet High School
-Pranay Francis - Magnet High School
-Adi Borkar - Magnet High School
-Nicole Ekwughalu - Magnet High School
-Cole DuHaime - AIT
-Alexis Cutignola - Magnet
-Jason Wang - UCTech
-Leila Cader - Magnet 
-Preeyank Bhagalia - Magnet 
-Manyi Cheng - Guest of Preeyank
-Yvonne Li - Magnet
-Aashni Chawada - Magnet"
-"Alyssa Regilus-UCTECH
-Samantha Ramos - guest of alyssa
-Natalie Maradiaga- UCTECH
-Karl Similien- guest of natalie 
-Nia Williams - UCTECH
-Marley Stewart - guest of nia
-Candace Heron-UCTECH
-Destiny Rodriguez- UCTECH
-Esther Babatunde- Magnet 
-Elijah Spotwood- UCTECH
-Bruce Moseti- UCTECH
-Alexandria Foye- UCTECH"
-"Maggie O'Connell-UCTECH
-Cole Golding- AIT
-Melina Colonias- Guest of Maggie O'Connell 
-Andrea Torres-Guest of Cole Golding "
-"Alina Lessing - APA
-Ariel Espinoza - Guest of Alina Lessing
-Sarah Bauman - APA
-Aryanna Aneiros - APA
-Sydney Chan - APA
-Carmen Houtsma - Guest of Sydney Chan
-Julia Turner - APA
-Cristina Freire - APA
-Ren Mirenda - APA
-Ken Macalos - Guest of Ren Mirenda
-Kendall Wernes - APA"
-"Montana Dixon - APA
-Fabiana Lopez - APA
-Cristina Freire - APA
-Seraphina Taylor - APA
-Ayleen Harper - APA
-Jada Sampson - APA
-Ma'Kayla Wilson - APA
-Dart Siddons - Guest of Ma'Kayla
-Madison Boyd - APA
-Xavier Siddons - Guest of Madison
-Christelle Philemon - APA
-Christian McPherson - Guest of Christelle"
-"Madeline Rehwinkel - Magnet
-Aryaa Modi - Magnet
-Julie Burke - Guest of Aryaa
-Nashali Taipe - Magnet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-Amanda Thomas - Magnet
-Kaiya Thompson - Magnet
-Allison Lesser - Magnet
-Reasha Nair - Magnet"
+"Lucas Ruiz - AIT
+Gabriella Villao - Guest of Lucas Ruiz
+Daniel Curry - AIT
+Jennifer Chethalan - AIT
+Jose Tabuena - AIT
+Raegan Knob - Guest of Jose Tabuena 
+Lance Williams - AIT
+Victor Almeida - AIT"
+"Amanda Rosenthal - AIT
+Juliana Ripper - Guest of Amanda
+Sophie Meinke - MHS
+Ian Le Warn - UCTECH
+Aditi Khedkar - AIT
+Haley Richardson - UCTECH
+Audrey Thompson - MHS
+Gabriela Silva - Guest of Audrey
+Hudson Dinh - AAHS
+Maria Vaikath - UCTECH"
+"Anthony Cardozo - AIT
+Sean Ferrari - AIT
+Lucas Baptista - AIT
+Oliver Zajac - Magnet
+Anna Dynda - Uctech
+Kelli Keogh - Uctech
+Adriana Rupa - Uctech
+Sofia Rodriguez - Uctech
+Thomas Miller - Uctech
+Liam Godwin - Guest of Kelli Keough
+Chris Schwarze- AIT 
+Michael Minchak - Allied Health"
+"Ricardo Roncallo - AIT
+Alan Ostrovsky - AIT
+Simon Cvercko - AIT
+Jason Torres - AIT
+Axel Santamaria - AIT
+Theo Karter - AIT
+Rafael Almeida - AIT
+Deejuanae Lewis - AIT
+Jordan White - AIT
+Sandro Imerlishvili - AIT
+Julia Billow - Guest of Axel Santamaria
+Guest of Theo Karter"
+"Sam Cohen - AIT
+Ashley Paez - Guest of Sam Cohen
+Nate Kim - AIT
+Jasmine Chen - Guest of Nate Kim
+Andy Zhu - AIT
+Kendall Chiang - Guest of Andy Zhu
+Jason Bak - AIT
+Bella Wai - Guest of Jason Bak
+Peter Reilly - AIT
+Morgan Virgil - UCTech
+Will Kim - AIT
+Mia O'Halloran - AIT"
+"Katarzyna Cieloszczyk - UCTECH
+Lauren Matfes - UCTECH
+Catherine Ramirez - UCTECH
+Jose Mendez - Guest of Catherine Ramirez"
+"Sandy Mosaed - UCTech
+Alkhaqan Cheema- Guest of Sandy Mosaed 
+Julia Soares Ramos - UCTECH
+Derek Wenskoski - UCTECH
+Owen Miller - UCTECH 
+Eric Bruckenstein - AIT
+Caitlyn Nicol - Guest of Owen Miller"
+"Jillian Smith - AAHS
+Angela Dance - Guest of Jillian Smith
+Favor Ogadimma - AAHS
+Jion Shim - AAHS
+Chidiogo Uwah - AAHS
+Melyssa Carie/Simeon - AAHS
+Vanesa Grajales - UCTECH
+Elian - Guest of Vanesa"
+"Hans Noriega - Magnet
+Aashi Mishra - Magnet
+Angela Colom - Magnet
+Lucas Morais - Magnet
+Alfonso Javier - Magnet
+Junior Cepeda - Magnet
+Salma Mohammed - Magnet
+Emely Duraes - UCTech
+Sebastian Saavedra - Magnet
+Annemarie Dauz - Magnet
+Neil Verma - Magnet
+Virginia Villa - UCTech"
