@@ -1,3 +1,4 @@
+Asterisks (*) after numbers denote two groups added together (one group has no asterisks, the other does)
 
 Table 1:
 1) Nicholas Panlilio
@@ -133,7 +134,7 @@ Table 10:
 5) Nicole Pasiecznik
 6) Gabriel Burgos
 7) Nyaziah Valle
-8) Taryn Palm/Morrison
+8) Taryn Palm-Morrison
 9) Tyler Runfolo
 10) Alex Privado
 11) Anahi Cortes

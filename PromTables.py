@@ -12,14 +12,14 @@ group = []
 with open('input.txt') as fI:
 	for line in fI.readlines():
 		line = line.strip("\n").replace(":","-").strip().title()
-		all.append(line.strip("\"").split("-")[0].strip())
+		all.append(line.strip("\"").split("-")[0].strip().replace("/","-"))
 
 		if line.endswith("\""):
-			group.append(line.strip("\"").split("-")[0].strip())
+			group.append(line.strip("\"").split("-")[0].strip().replace("/","-"))
 			groups.append(group)
 			group = []
 		else:
-			group.append(line.strip("\"").split("-")[0].strip())
+			group.append(line.strip("\"").split("-")[0].strip().replace("/","-"))
 
 # Label by size
 for group in groups:
@@ -40,6 +40,8 @@ try:
 	count = 1
 	removed = 0	
 	fO = open('tables.txt','w')
+
+	fO.write("Asterisks (*) after numbers denote two groups added together (one group has no asterisks, the other does)\n")
 
 	for i in range(len(groups)):
 		# If a table has already been made by a group
