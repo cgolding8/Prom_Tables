@@ -1,39 +1,405 @@
 
-Group 1 (Size = 11)
-[Luke Texidor, Katelyn Walsh, Emily Rego, Aidan Zucosky, Matthew Lordi, Lauren Kolfenbach, Robert Rooney, Bridget Hernandez, Evan Sinocchi, Nohlani Munoz, Anthony Younan]
+Group 1 (Size = 12)
+Nicholas Panlilio
+Owen Higinbotham
+Helena Chan
+Chelsey Tang
+Santiago Puerto
+Chibueze Ike
+Mark Rodriguez
+Maria Navarette
+Jazmin Delos Santos
+Micah Malonza
+Rafael Palete
+Kristy Leiva
 
-Group 2 (Size = 11)
-[Jordan Cheung, Madeleine Khristov-Weinrach, Nina Ignacio, Ivan Sanchez, Kieran Kavanagh, Tristan Florencio, Marcy Pillacela, Julia Chen, Lucia Lacourtna, Julie Morris, Ryan Donnelly]
+Group 2 (Size = 12)
+Alyssa Regilus
+Samantha Ramos
+Natalie Maradiaga
+Karl Similien
+Nia Williams
+Marley Stewart
+Candace Heron
+Destiny Rodriguez
+Esther Babatunde
+Elijah Spotwood
+Bruce Moseti
+Alexandria Foye
 
-Group 3 (Size = 10)
-[Noreen Healy, Sophie Gannon, Giulia Brady, Sam Wolf, Eliza Crawford, Arden Moscowitz, Janelle Estime, Darius Evans, Matt Griffin, Nicky]
+Group 3 (Size = 12)
+Montana Dixon
+Fabiana Lopez
+Cristina Freire
+Seraphina Taylor
+Ayleen Harper
+Jada Sampson
+Ma'Kayla Wilson
+Dart Siddons
+Madison Boyd
+Xavier Siddons
+Christelle Philemon
+Christian Mcpherson
 
-Group 4 (Size = 10)
-[Amanda Rosenthal, Juliana Ripper, Sophie Meinke, Ian Le Warn, Aditi Khedkar, Haley Richardson, Audrey Thompson, Gabriela Silva, Hudson Dinh, Maria Vaikath]
+Group 4 (Size = 12)
+Rafay Niazi
+Clara Yu
+Huda Memon
+Jessica Lee
+Ivan Chen
+Leticia Rodriguez
+Magy Hanna
+Claire Flagg
+Anastasiia Smykavchuk
+Isabel Andrade
+Fabiana Ramirez
+Leon Liu
 
-Group 5 (Size = 9)
-[Nathaly Ramirez, Vivian Lin, Jilani Skinner, Alondra Martinez, Andrea Larkins, Elvin Ramirez, Janbert Marania, Zinnyah Nutornti, John Inoa]
+Group 5 (Size = 12)
+Jesse Ryan
+Luci Vicendese
+Marisa Olavarria
+Amy Locke
+Joyce Naguib
+Mayer Fakeh
+Evan Crozier
+Bridget Morrison
+Caden Xu
+Louis Wood
+Zack Mani
+Alexandra Zotos
 
-Group 6 (Size = 9)
-[Sophia Andersen, Casey Concannon, Micheal Stockstill, Tiger Ehieze, Natalie Andrade, Youhao Wang, Richard Kluse, Kaylie Nudelman, Federick Pena-Garcia]
+Group 6 (Size = 12)
+Braulio Meneses
+Mariano Meneses
+Jared Walters
+Xzavier F.
+Claudio Salinas
+Steven Z.
+Alisha Persaud
+Nicholas N.
+Danica Santos
+Sebastian Aparicio
+David Leal
+Miles Neal
 
-Group 7 (Size = 9)
-[Riyana Phadke, Juliana Schickel, Pavni Bhardwaj, Day Gillet, Guest Of Day Gillet, Alexis Kern, Sharanya Jairam, Akwele Lokko, Saniya Harlalka]
+Group 7 (Size = 12)
+Shalini Ramakrishnan
+Annamaria George
+Ayana Alles
+Claudia Reines
+Megan Zuzarth
+Justin Koizumi
+Ashley Hoberman
+Kylie Pello
+Nathaniel Ainge
+Lucia Laumbach
+Mikayla Mari
+Chelsea Ekwughalu
 
-Group 8 (Size = 9)
-[Ann-Marie Wimbush, Malachi Mercer, Caia Moonsammy, Allyan Roache, Nyjae Shipley, Guest Of Nyjae, Curtisa Jones, Everett Bound, Guest Of Everett]
+Group 8 (Size = 12)
+Michael Levin
+Catherine Royzman
+Antonio Drakes
+Leila Cader
+Aashni Chawada
+Pranay Francis
+Aditya Borkar
+Yvonne Li
+Alexis Cutignola
+Jason Wang
+Nicole Ekwughalu
+Cole Duhaime
 
-Group 9 (Size = 9)
-[Allie Colon, Mia Pickton, Aleksa Wehrle, Sarah Wenskoski, Cesar Minos, Nikki Shrestha, Jack Stickler, Rosa Cascarano, Ella Salmon]
+Group 9 (Size = 12)
+Nicole Lenkiewicz
+Natalie Piskadlo
+Wesley Nicholls
+Kaitlyn O’Neill
+Nicole Pasiecznik
+Gabriel Burgos
+Nyaziah Valle
+Taryn Palm-Morrison
+Tyler Runfolo
+Alex Privado
+Anahi Cortes
+Emiliano Zamudio
 
-Group 10 (Size = 8)
-[Jillian Smith, Angela Dance, Favor Ogadimma, Jion Shim, Chidiogo Uwah, Melyssa Carie-Simeon, Vanesa Grajales, Elian]
+Group 10 (Size = 12)
+Annabella La Mantia
+Douglas Perestrello
+Andrea Falar
+Georgiana Tillinghast
+Chadley Gede
+Georgia Sebok
+Timothy Fagan
+Max Ho
+Eliana Rafal
+Jermia Pearson
+Katrina Young
+Chelsi Gregorio
 
-Group 11 (Size = 7)
-[Aadi Pandey, Margaret Whitney, Michael Olszewski, Timothy Zaslavsky, Preeyank Bhagalia, Melody Cheng, Michael Percario]
+Group 11 (Size = 12)
+Neida Reyes
+Priscilla Nieves
+Maria Mormile
+Jermia Pearson
+Abigail Castellanos
+Zachary Valentin
+Maggie O'Connell
+Cole Golding
+Melina Colonias
+Andrea Torres
+Alex Diaz
+Angela Chen
 
-Group 12 (Size = 7)
-[Samantha Santiago, Kevin Sun, Ka Deen Scarlett, Neve Ferreira, Jenna Moriello, Amanda’S Magee, Emily Garcia]
+Group 12 (Size = 12)
+Anthony Cardozo
+Sean Ferrari
+Lucas Baptista
+Oliver Zajac
+Anna Dynda
+Kelli Keogh
+Adriana Rupa
+Sofia Rodriguez
+Thomas Miller
+Liam Godwin
+Chris Schwarze
+Michael Minchak
 
-Group 13 (Size = 7)
-[Sandy Mosaed, Alkhaqan Cheema, Julia Soares Ramos, Derek Wenskoski, Owen Miller, Eric Bruckenstein, Caitlyn Nicol]
+Group 13 (Size = 12)
+Ricardo Roncallo
+Alan Ostrovsky
+Simon Cvercko
+Jason Torres
+Axel Santamaria
+Theo Karter
+Rafael Almeida
+Deejuanae Lewis
+Jordan White
+Sandro Imerlishvili
+Julia Billow
+Guest Of Theo Karter
+
+Group 14 (Size = 12)
+Hans Noriega
+Aashi Mishra
+Angela Colom
+Lucas Morais
+Alfonso Javier
+Junior Cepeda
+Salma Mohammed
+Emely Duraes
+Sebastian Saavedra
+Annemarie Dauz
+Neil Verma
+Virginia Villa
+
+Group 15 (Size = 11)
+Anthony Cardozo
+Sean Ferrari
+Lucas Baptista
+Oliver Zajac
+Kelli Keogh
+Adriana Rupa
+Sofia Rodriguez
+Thomas Miller
+Liam Godwin
+Chris Schwarze
+Michael Minchak
+
+Group 16 (Size = 11)
+Luke Texidor
+Katelyn Walsh
+Emily Rego
+Aidan Zucosky
+Matthew Lordi
+Lauren Kolfenbach
+Robert Rooney
+Bridget Hernandez
+Evan Sinocchi
+Nohlani Munoz
+Anthony Younan
+
+Group 17 (Size = 11)
+Jordan Cheung
+Madeleine Khristov-Weinrach
+Nina Ignacio
+Ivan Sanchez
+Kieran Kavanagh
+Tristan Florencio
+Marcy Pillacela
+Julia Chen
+Lucia Lacourtna
+Julie Morris
+Ryan Donnelly
+
+Group 18 (Size = 11)
+Mia Avni
+Maya Dias
+Hannah Tao
+Saniya Licorish
+Moses Yang
+Riya Tadi
+Sweksha Mehta
+Lena Sharma
+Sneha Seshadri
+Alina Murad
+Urmi Joglekar
+
+Group 19 (Size = 11)
+Sam Cohen
+Ashley Paez
+Nate Kim
+Jasmine Chen
+Andy Zhu
+Kendall Chiang
+Jason Bak
+Bella Wai
+Peter Reilly
+Will Kim
+Mia O'Halloran
+
+Group 20 (Size = 9)
+Sofia Figueroa
+Stephanie Mora
+Gabriella Wysocki
+Annie Saguil
+Sarah Fradella
+Maja Dinic
+Joey Grimaldi
+Ava Giuliano
+Daniella Montanez
+
+Group 21 (Size = 9)
+Nathaly Ramirez
+Vivian Lin
+Jilani Skinner
+Alondra Martinez
+Andrea Larkins
+Elvin Ramirez
+Janbert Marania
+Zinnyah Nutornti
+John Inoa
+
+Group 22 (Size = 9)
+Sophia Andersen
+Casey Concannon
+Micheal Stockstill
+Tiger Ehieze
+Natalie Andrade
+Youhao Wang
+Richard Kluse
+Kaylie Nudelman
+Federick Pena-Garcia
+
+Group 23 (Size = 9)
+Riyana Phadke
+Juliana Schickel
+Pavni Bhardwaj
+Day Gillet
+Guest Of Day Gillet
+Alexis Kern
+Sharanya Jairam
+Akwele Lokko
+Saniya Harlalka
+
+Group 24 (Size = 9)
+Ann-Marie Wimbush
+Malachi Mercer
+Caia Moonsammy
+Allyan Roache
+Nyjae Shipley
+Guest Of Nyjae
+Curtisa Jones
+Everett Bound
+Guest Of Everett
+
+Group 25 (Size = 9)
+Daniella Palomino
+Morgan Virgil
+Kyra Simmons-Thompson
+Evalyse Carter
+Tomas Jedic
+Melany Gonzalez
+Joe Galati
+Paloma Elliott
+Nicolas Ruiz
+
+Group 26 (Size = 8)
+Lucas Ruiz
+Gabriella Villao
+Daniel Curry
+Jennifer Chethalan
+Jose Tabuena
+Raegan Knob
+Lance Williams
+Victor Almeida
+
+Group 27 (Size = 8)
+Jillian Smith
+Angela Dance
+Favor Ogadimma
+Jion Shim
+Chidiogo Uwah
+Melyssa Carie-Simeon
+Vanesa Grajales
+Elian
+
+Group 28 (Size = 7)
+Aadi Pandey
+Margaret Whitney
+Michael Olszewski
+Timothy Zaslavsky
+Preeyank Bhagalia
+Melody Cheng
+Michael Percario
+
+Group 29 (Size = 7)
+Samantha Santiago
+Kevin Sun
+Ka Deen Scarlett
+Neve Ferreira
+Jenna Moriello
+Amanda’S Magee
+Emily Garcia
+
+Group 30 (Size = 7)
+Sandy Mosaed
+Alkhaqan Cheema
+Julia Soares Ramos
+Derek Wenskoski
+Owen Miller
+Eric Bruckenstein
+Caitlyn Nicol
+
+Group 31 (Size = 6)
+Isabella Gomez
+Kate Anne Monsanto
+Jadyn Negron
+Christian Allende
+Amy Gomez
+Romane Jackson
+
+Group 32 (Size = 6)
+Isabella Gomez
+Kate Anne Monsanto
+Jadyn Negron
+Christian Allende
+Amy Gomez
+Romane Jackson
+
+Group 33 (Size = 6)
+Ashley Molina
+Finnegan Sezer
+Rebecca Lee
+Kevin Huang
+Janet Paida
+Erick Jacomes
+
+Group 34 (Size = 5)
+Day Gillett
+Akwele Lokko
+Ivan Aguirre
+Alyssa Cruz
+Conrad Chen

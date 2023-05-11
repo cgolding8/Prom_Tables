@@ -6,6 +6,7 @@ Abigail Castellanos
 Aditi Khedkar
 Aditya Borkar
 Adriana Rupa
+Adriana Rupa
 Aidan Zucosky
 Akwele Lokko
 Akwele Lokko
@@ -17,7 +18,6 @@ Alexandra Zotos
 Alexandria Foye
 Alexis Cutignola
 Alexis Kern
-Alexy Eng
 Alfonso Javier
 Alicia Valenciano
 Alina Murad
@@ -44,19 +44,19 @@ Andrea Larkins
 Andrea Torres
 Andy Zhu
 Angela Chen
-Angela Chen
 Angela Colom
 Angela Dance
 Ann-Marie Wimbush
+Anna Dynda
 Anna Dynda
 Annabella La Mantia
 Annamaria George
 Annemarie Dauz
 Annie Saguil
 Anthony Cardozo
+Anthony Cardozo
 Anthony Younan
 Antonio Drakes
-Anuva Yonzon
 Arden Moscowitz
 Aryaa Modi
 Ashley Hoberman
@@ -66,7 +66,6 @@ Aspen Sassi
 Aubrey Reyes
 Audrey Thompson
 Ava Giuliano
-Ava Stroh
 Axel Santamaria
 Ayana Alles
 Ayleen Harper
@@ -80,7 +79,6 @@ Caden Xu
 Caia Moonsammy
 Caitlyn Nicol
 Candace Heron
-Casey Blount
 Casey Concannon
 Catherine Ramirez
 Catherine Royzman
@@ -93,6 +91,7 @@ Chibueze Ike
 Chidiogo Uwah
 Chloe Kim
 Chris Santarelli
+Chris Schwarze
 Chris Schwarze
 Christelle Philemon
 Christian Allende
@@ -121,7 +120,6 @@ Day Gillet
 Day Gillett
 Deejuanae Lewis
 Derek Wenskoski
-Derene Darkwah
 Destiny Rodriguez
 Douglas Perestrello
 Dylan Sturr
@@ -160,7 +158,6 @@ Gabriella Virga
 Gabriella Wysocki
 Georgia Sebok
 Georgiana Tillinghast
-Giovanna Marques
 Giulia Brady
 Guest Of Day Gillet
 Guest Of Esther
@@ -219,7 +216,6 @@ Jordan Cheung
 Jordan White
 Jose Mendez
 Jose Tabuena
-Jourdyn Stinnett
 Joyce Naguib
 Julia Billow
 Julia Chen
@@ -243,6 +239,7 @@ Katelyn Walsh
 Katrina Young
 Kaylie Nudelman
 Kelli Keogh
+Kelli Keogh
 Kendall Chiang
 Kevin Huang
 Kevin Sun
@@ -250,9 +247,8 @@ Kieran Kavanagh
 Kira Zimbalist
 Kota Smolar
 Kristy Leiva
-Kyla Howell
 Kylie Pello
-Kyra Simmons Thompson
+Kyra Simmons-Thompson
 Lance Williams
 Lauren Kolfenbach
 Lauren Matfes
@@ -262,8 +258,10 @@ Lena Sharma
 Leon Liu
 Leticia Rodriguez
 Liam Godwin
+Liam Godwin
 Lili Masoudi
 Louis Wood
+Lucas Baptista
 Lucas Baptista
 Lucas Morais
 Lucas Reguinho
@@ -307,6 +305,7 @@ Mia Pickton
 Micah Malonza
 Michael Levin
 Michael Minchak
+Michael Minchak
 Michael Olszewski
 Michael Percario
 Micheal Stockstill
@@ -335,7 +334,6 @@ Nicolas Ruiz
 Nicole Ekwughalu
 Nicole Lenkiewicz
 Nicole Pasiecznik
-Nicole Wilk
 Nikki Shrestha
 Nina Ignacio
 Nohlani Munoz
@@ -343,7 +341,7 @@ Noreen Healy
 Nyaziah Valle
 Nyjae Shipley
 Oliver Zajac
-Omano Akenami
+Oliver Zajac
 Owen Higinbotham
 Owen Miller
 Paloma Elliott
@@ -352,7 +350,6 @@ Peter Reilly
 Pranay Francis
 Preeyank Bhagalia
 Priscilla Nieves
-Quentin Morris
 Raegan Knob
 Rafael Almeida
 Rafael Palete
@@ -381,9 +378,9 @@ Saniya Harlalka
 Saniya Licorish
 Santiago Puerto
 Sarah Fradella
-Sarah Senatus
 Sarah Wenskoski
 Sayee Edekar
+Sean Ferrari
 Sean Ferrari
 Sebastian Aparicio
 Sebastian Saavedra
@@ -393,6 +390,7 @@ Sharanya Jairam
 Simon Cvercko
 Sneha Seshadri
 Sofia Figueroa
+Sofia Rodriguez
 Sofia Rodriguez
 Sophia Andersen
 Sophie Gannon
@@ -404,6 +402,7 @@ Sydney King
 Taryn Palm-Morrison
 Tessa Dunkerton
 Theo Karter
+Thomas Miller
 Thomas Miller
 Thomas Sabates
 Tiger Ehieze

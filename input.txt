@@ -125,18 +125,17 @@ Lili Masoudi - UCtech
 Jacob Piatkowski - APA
 Kota Smolar - guest of Jacob Piatkowski
 Ella Platts - UCtech"
-"Ava Stroh - AAHS
-Sarah Senatus - AAHS
-Anuva Yonzon - AAHS
-Nicole Wilk - AAHS
-Derene Darkwah - AAHS
-Jourdyn Stinnett - AAHS
-Quentin Morris - Guest of Jourdyn
-Alexy Eng - AAHS
-Giovanna Marques - UCTECH
-Kyla Howell - UCTECH
-Omano Akenami - UCTECH
-Casey Blount - UCTECH"
+"Anthony Cardozo - AIT
+Sean Ferrari - AIT
+Lucas Baptista - AIT
+Oliver Zajac - Magnet
+Kelli Keogh - Uctech
+Adriana Rupa - Uctech
+Sofia Rodriguez - Uctech
+Thomas Miller - Uctech
+Liam Godwin - Guest of Kelli Keough
+Chris Schwarze- AIT 
+Michael Minchak - Allied Health"
 "Michael Levin- MHS
 Catherine Royzman- Guest of Michael Levin
 Antonio Drakes- MHS
@@ -206,11 +205,9 @@ Jessica Dianda - UCTech
 Mark Hansen - Guest (Magnet) of Alicia Valenciano 
 Alicia Valenciano - UCTech
 Edgar Pacheco - UCTech
-Kyra Simmons Thompson - UCTech
 Jenai Berry - UCTech
 Nate Rayan - Guest of Jenai Berry
-Mia Cardoso - UCTech
-Daniella Palomino - UCTech "
+Mia Cardoso - UCTech"
 "Annabella La Mantia - UCTech
 Douglas Perestrello - Guest of Annabella L. 
 Andrea Falar - UCTech 
@@ -254,7 +251,8 @@ Cesar Minos - Guest of Sarah Wenskoski
 Nikki Shrestha - UCTech
 Jack Stickler - Guest of Nikki Shrestha
 Rosa Cascarano - UCTech
-Ella Salmon - UCTech "
+Anna Dynda - Uctech
+Ella Salmon - UCTech   "
 "Aadi Pandey - Magnet
 Margaret Whitney - AIT
 Michael Olszewski - UCTECH
@@ -297,12 +295,6 @@ Neve Ferreira-APA
 Jenna Moriello-APA
 Amanda’s Magee- Guest of Jenna Moriello
 Emily Garcia-APA"
-"Evalyse Carter- UcTech
-Tomas Jedic- Guest of Evalyse
-Melany Gonzalez-UcTech
-Joe Galati- Guest of Melany
-Paloma Elliott- UcTech
-Nicolas Ruiz- AIT"
 "Jordan Cheung - Magnet
 Madeleine Khristov/Weinrach - Magnet
 Nina Ignacio - Magnet 
@@ -331,7 +323,6 @@ Erick Jacomes - AIT"
 Dylan Sturr - AIT
 Thomas Sabates - AIT"
 "Mia Avni - AIT
-Angela Chen - AIT
 Maya Dias - AIT
 Hannah Tao - AIT
 Saniya Licorish - AIT
@@ -393,7 +384,6 @@ Kendall Chiang - Guest of Andy Zhu
 Jason Bak - AIT
 Bella Wai - Guest of Jason Bak
 Peter Reilly - AIT
-Morgan Virgil - UCTech
 Will Kim - AIT
 Mia O'Halloran - AIT"
 "Katarzyna Cieloszczyk - UCTECH
@@ -427,3 +417,12 @@ Sebastian Saavedra - Magnet
 Annemarie Dauz - Magnet
 Neil Verma - Magnet
 Virginia Villa - UCTech"
+"Daniella Palomino
+Morgan Virgil
+Kyra Simmons/Thompson
+Evalyse Carter
+Tomas Jedic
+Melany Gonzalez
+Joe Galati
+Paloma Elliott
+Nicolas Ruiz"

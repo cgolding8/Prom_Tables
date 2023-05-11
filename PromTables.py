@@ -45,7 +45,7 @@ try:
 
 	for i in range(len(groups)):
 		# If a table has already been made by a group
-		if groups[i-removed][0] == 12:
+		if groups[i-removed][0] == 10:
 			fO.write(f"\nTable {count}:\n")
 			c = 1
 			for p in groups[i-removed][1:]:
@@ -59,7 +59,7 @@ try:
 			revGroups = sorted(groups, key=lambda x: x[0])
 			revGroups2 = sorted(groups, key=lambda x: x[0])
 			for j in range(len(revGroups)):
-				n = 12 - groups[i-removed][0]
+				n = 10 - groups[i-removed][0]
 				if revGroups[j][0] == n and revGroups[j][1] != groups[i-removed][1]:
 					fO.write(f"\nTable {count}:\n")
 					c = 1
@@ -74,7 +74,7 @@ try:
 					removed += 1
 					count += 1
 		else:
-			n = 12 - groups[i-removed][0]
+			n = 10 - groups[i-removed][0]
 			groups1 = copy.copy(groups)
 			groups2 = copy.copy(groups)
 			for j in range(len(groups)):
@@ -105,8 +105,8 @@ except:
 with open('leftover.txt','w') as fL:
 	for i in range(len(groups)):
 		fL.write(f"\nGroup {i+1} (Size = {groups[i][0]})")
-		str = ", ".join(groups[i][1:])
-		fL.write(f"\n[{str}]\n")
+		str = "\n".join(groups[i][1:])
+		fL.write(f"\n{str}\n")
 
 all.sort()
 print(all)
